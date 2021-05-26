@@ -4,9 +4,11 @@ Simple Tracking assignment
 Usage examples
 ---------------------
 Start web tracker (after installation):
+
 .\python.exe -m simple_tracking -l "c:\temp\visitors.log"
 
 Start reporter (after installation):
+
 .\python.exe -m reporter -s "2020-01-01 09:00:00" -e "2022-01-01 09:00:00" -l "C:\Temp\visitors.log"
 
 Description of assignment
@@ -72,13 +74,17 @@ Please submit your solution by email as a single zip file or as a link to a host
 FAQ:
 -------------------------------
 Q: Is the format of timestamp, url, userid important?
+
 A: No, use whatever makes sense to you
 
 Q: Are userids supposed to be numeric and/or sequential?
+
 A: No, you are free to use any type and strategy to get unique ids
 
 Q: Should I use BDD/Cucumber?
+
 A: No, the examples above are just my way of explaining. Unit tests are fine for the assignment.
 
 Q: Should the command-line interface be interactive?
+
 A: No, just accepting standard command-line parameters for the time-range is fine
