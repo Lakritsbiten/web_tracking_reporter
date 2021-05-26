@@ -1,6 +1,16 @@
 Simple Tracking assignment
 ===========================================
 
+Usage examples
+---------------------
+Start web tracker (after installation):
+.\python.exe -m simple_tracking -l "c:\temp\visitors.log"
+
+Start reporter (after installation):
+.\python.exe -m reporter -s "2020-01-01 09:00:00" -e "2022-01-01 09:00:00" -l "C:\Temp\visitors.log"
+
+Description of assignment
+-----------------------------
 A tracking pixel is commonly used to capture visitor activity on web sites, in order to later display statistics on page views, visits and advertising.
 Currently the most frequently used tracking is Google Analytics, but it's common for web sites to use more than one solution in parallel.
 
