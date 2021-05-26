@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: tracking-reporter
+Version: 0.0.10
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Stefan Solender
+Author-email: stefan.solender@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.7
